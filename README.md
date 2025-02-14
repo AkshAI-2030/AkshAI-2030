@@ -57,7 +57,7 @@
 ---
 
 ## 🔥 Projects
-### [QuickCart - E-Commerce](https://github.com/AkshAI-2030/QuickCart-E-commerce-App)
+### [QuickCart - E-Commerce](https://akshayarelli.ccbp.tech/login)
 🛒 Built a full-stack e-commerce platform with authentication and product management.
 
 ### [Real-Time Chat App](https://real-time-chat-app-frontend-ashen.vercel.app/)
