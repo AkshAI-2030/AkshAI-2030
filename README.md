@@ -58,11 +58,15 @@
 ---
 
 ## 🔥 Projects
+
+### [Swiggy Clone App](https://swiggy-clone-app-frontend.onrender.com/)
+🍔 Built a Swiggy-like full-stack food ordering application with real-time cart, restaurant listings, and authentication.
+
 ### [QuickCart - E-Commerce](https://akshayarelli.ccbp.tech/login)
 🛒 Built a full-stack e-commerce platform with authentication and product management.
 
-### [Real-Time Chat App](https://real-time-chat-app-frontend-ashen.vercel.app/)
-💬 Developed a real-time messaging app with Socket.io and MongoDB.
+### [Real-Time Chat App](https://chatappv2-frontend.onrender.com/login)
+💬 Developed a real-time messaging app with Node, Express, Socket.io and MongoDB.
 
 ---
 
