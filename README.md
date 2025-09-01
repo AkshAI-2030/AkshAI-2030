@@ -13,7 +13,7 @@
 - 📫 How to reach me **akshayarelli2030@gmail.com**
 - ⚡ Tech Explorer: **I love problem-solving, hackathons and open-source contributions!**
 - 🧐 **Actively looking for Full-time and Internships in SDE, Backend and Full-Stack Development**
-- 👉 **Portfolio:** currrently revamping it :)
+- 👉 **Portfolio:** currently revamping it :)
 ---
 
 ## 📬 Connect with Me:
