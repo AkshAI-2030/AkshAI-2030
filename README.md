@@ -1,5 +1,5 @@
 <h1 align="center">😀 Hello 👋, I'm Akshay Arelli</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Hyderabad, India</h3>
+<h3 align="center">A Passionate Software Development Engineer from Hyderabad, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/AkshAI_2030" target="blank"><img src="https://img.shields.io/twitter/follow/AkshAI_2030?logo=twitter&style=for-the-badge" alt="AkshAI_2030" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, TypeScript**
-- 💬 I'm Good at **Data Structures & Algorithms, MERN Stack, Backend Development**
+- 🌱 I’m currently learning **In depth Backend Development, System Design**
+- 💬 I'm Good at **Data Structures & Algorithms, Backend Development(Java) & MERN stack**
 - 🚀 I’m working on **Personal Projects and DSA**
 - 📫 How to reach me **akshayarelli2030@gmail.com**
 - ⚡ Tech Explorer: **I love problem-solving, hackathons and open-source contributions!**
